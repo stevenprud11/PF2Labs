@@ -1,2 +1,2 @@
 # PF2Labs C++ 
-Lab Assignments for my programming foundations 2 class
+Lab Assignments for my Programming Foundation II class spring semester freshman year of college.
